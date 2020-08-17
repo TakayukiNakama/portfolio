@@ -217,3 +217,5 @@ animation: typing 3s steps(12, end), caret .5s step-end infinite;
     border-radius: 16px;
     cursor: pointer;
 }
+
+
